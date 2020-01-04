@@ -1,13 +1,13 @@
 # books
 
-2020. 1.
+2020-01
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14635471">프로그래머, 열정을 말하다 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7415431">프로그래머의 길, 멘토에게 묻다 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920583">스프린트</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49588358">어떻게 공부 할 것인가</a>
 
-2020.
+2020
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717">테스트 주도 개발</a>
 - [ ] <a href="https://www.aladin.co.kr//wproduct.aspx?ItemId=66925855">소프트웨어 장인</a>
