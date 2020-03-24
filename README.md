@@ -1,17 +1,17 @@
 # books
 
-##2020-01
+## 2020-01
 
 - [o] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14635471">프로그래머, 열정을 말하다 </a>
 - [o] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7415431">프로그래머의 길, 멘토에게 묻다 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920583">스프린트</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=49588358">어떻게 공부 할 것인가</a>
 
-##2020-02
+## 2020-02
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31679090">코딩을 지탱하는 기술 </a>
 
-##2020-03
+## 2020-03
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31679090">코딩을 지탱하는 기술 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174227910">이 책도 읽지 마세요 </a>
@@ -20,7 +20,7 @@
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179103585">깐깐하게 배우는 파이썬3 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717">테스트 주도 개발</a>
 
-##list
+## list
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=170174305">node.js 디자인 패턴</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179103585">깐깐하게 배우는 파이썬3</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680">클린코드</a>
