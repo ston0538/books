@@ -16,13 +16,13 @@
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31679090">코딩을 지탱하는 기술 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174227910">이 책도 읽지 마세요 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=43132954">피플웨어</a>
-
+- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=90263000">flask 웹 개발</a>
+- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179103585">깐깐하게 배우는 파이썬3 </a>
+- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717">테스트 주도 개발</a>
 list
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=170174305">node.js 디자인 패턴</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179103585">깐깐하게 배우는 파이썬3</a>
-- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=170174305">node.js 디자인 패턴</a>
-- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717">테스트 주도 개발</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680">클린코드</a>
 - [ ] <a href="https://www.aladin.co.kr//wproduct.aspx?ItemId=66925855">소프트웨어 장인</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182285146">아주 작은 습관의 힘 </a>
@@ -33,3 +33,5 @@ list
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86619346">클린 코더</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31424195">린 UX </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38880484">웹 서비스 개발 철저공략 </a>
+
+
