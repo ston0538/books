@@ -25,6 +25,10 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174227910">이 책도 읽지 마세요 </a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38880484">웹 서비스 개발 철저공략 </a>
 
+## 2020-05
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=90263000">flask 웹 개발</a>
+- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65747649">RESTful Web API</a>
+
 ## list
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122260559">모던 자바스크립트</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=170174305">node.js 디자인 패턴</a>
@@ -38,5 +42,6 @@
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=202322454">클린 아키텍처 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86619346">클린 코더</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31424195">린 UX </a>
+- [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65747649">RESTful Web API</a>
 
 
