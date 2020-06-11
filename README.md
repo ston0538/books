@@ -32,6 +32,12 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65747649">RESTful Web API</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175977462">함께 자라기 </a>
 
+## 2020-05
+
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131767959">함수형 자바스크립트</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223300507">RxJS 반응형 프로그래밍</a>
+
+
 ## list
 
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122260559">모던 자바스크립트</a>
@@ -40,6 +46,8 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680">클린코드</a>
 - [△] <a href="https://www.aladin.co.kr//wproduct.aspx?ItemId=66925855">소프트웨어 장인</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236186172">리팩터링 2판</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131767959">함수형 자바스크립트</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223300507">RxJS 반응형 프로그래밍</a>
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182285146">아주 작은 습관의 힘 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4101734">탤런트 코드</a>
