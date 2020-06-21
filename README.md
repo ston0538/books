@@ -32,10 +32,11 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65747649">RESTful Web API</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175977462">함께 자라기 </a>
 
-## 2020-05
+## 2020-06
 
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131767959">함수형 자바스크립트</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223300507">RxJS 반응형 프로그래밍</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178972447">리액트 인 액션/a>
 
 
 ## list
