@@ -36,19 +36,11 @@
 
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131767959">함수형 자바스크립트</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223300507">RxJS 반응형 프로그래밍</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178972447">리액트 인 액션/a>
-
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178972447">리액트 인 액션</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178972447">리액트 인 액션</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38913750">자바스크립트 닌자 비급</a>
 
 ## list
-
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=122260559">모던 자바스크립트</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=170174305">node.js 디자인 패턴</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179103585">깐깐하게 배우는 파이썬3</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680">클린코드</a>
-- [△] <a href="https://www.aladin.co.kr//wproduct.aspx?ItemId=66925855">소프트웨어 장인</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=236186172">리팩터링 2판</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131767959">함수형 자바스크립트</a>
-- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223300507">RxJS 반응형 프로그래밍</a>
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182285146">아주 작은 습관의 힘 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4101734">탤런트 코드</a>
