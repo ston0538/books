@@ -52,6 +52,11 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=120267010">코틀린 인 액션</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=240603144">자바스크립트는 왜 그 모양일까?</a>
 
+## 2020-09
+
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=87335904">자바스크립트 디자인 패턴</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637185">타입 스크립트 디자인 패턴</a>
+
 ## list
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182285146">아주 작은 습관의 힘 </a>
