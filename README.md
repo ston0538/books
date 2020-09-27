@@ -56,6 +56,7 @@
 
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=87335904">자바스크립트 디자인 패턴</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637185">타입 스크립트 디자인 패턴</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151433126">프로그래머, 수학으로 생각하라</a>
 
 ## list
 
