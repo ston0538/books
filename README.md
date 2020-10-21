@@ -58,6 +58,13 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637185">타입 스크립트 디자인 패턴</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151433126">프로그래머, 수학으로 생각하라</a>
 
+## 2020-10
+
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114466258">You don't know JS:this와 객체 프로토 타입, 비동기와 성능</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732">대체 뭐가 문제야?</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=202322454">클린 아키텍처</a>
+
+
 ## list
 
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182285146">아주 작은 습관의 힘 </a>
