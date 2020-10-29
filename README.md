@@ -64,6 +64,10 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22740732">대체 뭐가 문제야?</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=202322454">클린 아키텍처</a>
 
+## 2020-11
+
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581">심플 소프트웨어</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26429559">칸반과 스크럼</a>
 
 ## list
 
