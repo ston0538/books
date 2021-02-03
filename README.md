@@ -69,8 +69,16 @@
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581">심플 소프트웨어</a>
 - [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26429559">칸반과 스크럼</a>
 
-## list
+## 2020-12
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38786788">실용주의 프로그래머</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=553103">조엘 온 소프트웨어</a>
 
+## 2021-01
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=166082298">완벽한 인프라 구축을 위한 Docker</a>
+- [△] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3657877">스크럼과 XP</a>
+
+
+## list
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=182285146">아주 작은 습관의 힘 </a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4101734">탤런트 코드</a>
 - [ ] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=202322454">클린 아키텍처 </a>
